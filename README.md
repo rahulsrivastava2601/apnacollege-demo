@@ -1,4 +1,3 @@
 # apnacollege-demo
-<h1>This is my first repository.</h1>
-<br>
+<h3>This is my first repository.</h3> <br>
 Author :- Rahul Srivastava
